@@ -40,7 +40,7 @@ createwallpaper(parameterized_lorenz!, u0, tspan, p)
 
 This should create a beautiful Lorentz attractor wallpaper!
 
-![Image of the Lorentz attractor](https://github.com/phgelado/StrangeAttractors.jl/wallpaper.png)
+![Image of the Lorentz attractor](wallpaper.png)
 
 
 ## Please note this package is currently in early stage development, feel free to pitch in and contribute!
